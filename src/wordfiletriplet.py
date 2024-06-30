@@ -21,7 +21,7 @@ class WordFileTriplet(object):
         self._content_C = content_C
 
     @property
-    def name(self, ):
+    def name(self):
         return self._name
 
     @property
